@@ -37,7 +37,7 @@
 <h1>An official website of "MLADDC : Multi-Lingual Audio Deepfake Detection Corpus"</h1>
 
 <!-- <h1>Dataset from "GGMDDC: A Multilingual Dataset for Audio Deepfake Detection"</h1> -->
-<h3><a href="https://www.linkedin.com/in/arth-shah-18b4a0245">Arth J. Shah, <a href="https://iamshreeji-copy1.github.io/ravindrakumar_purohit/index.html">Ravindrakumar M. Purohit</a>, Dharmendra H. Vaghera, <a href="https://sites.google.com/site/hemantpatildaiict/">Dr. Hemant A. Patil</a></h3>
+<h3><a href="https://www.linkedin.com/in/arth-shah-18b4a0245">Arth J. Shah, <a href="https://iamshreeji-copy1.github.io/ravindrakumar_purohit/index.html">Ravindrakumar M. Purohit</a>, <a href="https://www.linkedin.com/in/dharmendra-vaghera-95677b256/">Dharmendra H. Vaghera, <a href="https://sites.google.com/site/hemantpatildaiict/">Dr. Hemant A. Patil</a></h3>
 <h4><a href="https://sites.google.com/site/speechlabdaiict/home">Speech Research Lab</a>, Dhirubhai Ambani Institute of Information and Communication Technology (DA-IICT), Gandhinagar</h4>
 <h4>Submitted to ICASSP 2025, Hyderabad, India.</h4>
           
