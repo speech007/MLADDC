@@ -37,7 +37,7 @@
 <h1>An official website of "MLADDC : Multi-Lingual Audio Deepfake Detection Corpus"</h1>
 
 <!-- <h1>Dataset from "GGMDDC: A Multilingual Dataset for Audio Deepfake Detection"</h1> -->
-<h3><a href="https://www.linkedin.com/in/arth-shah-18b4a0245">Arth J. Shah, <a href="https://iamshreeji-copy1.github.io/ravindrakumar_purohit/index.html">Ravindrakumar M. Purohit</a>, <a href="https://www.linkedin.com/in/dharmendra-vaghera-95677b256/">Dharmendra H. Vaghera, <a href="https://sites.google.com/site/hemantpatildaiict/">Dr. Hemant A. Patil</a></h3>
+<h3><a href="https://www.linkedin.com/in/arth-shah-18b4a0245">Arth J. Shah, <a href="https://iamshreeji-copy1.github.io/ravindrakumar_purohit/index.html">Ravindrakumar M. Purohit</a>, <h3><a href="https://www.linkedin.com/in/dharmendra-vaghera-95677b256/">Dharmendra H. Vaghera, <a href="https://sites.google.com/site/hemantpatildaiict/">Dr. Hemant A. Patil</a></h3>
 <h4><a href="https://sites.google.com/site/speechlabdaiict/home">Speech Research Lab</a>, Dhirubhai Ambani Institute of Information and Communication Technology (DA-IICT), Gandhinagar</h4>
 <h4>Submitted to ICASSP 2025, Hyderabad, India.</h4>
           
@@ -323,7 +323,7 @@ Refer to the manuscript for further details.
     <td>1000</td>
     <td>1000</td>
     <td>-</td>
-    <td>11.31</td>
+    <td>11.35</td>
   </tr>
   <tr>
     <td>Original</td>
@@ -345,7 +345,7 @@ Refer to the manuscript for further details.
     <td>1000</td>
     <td>1000</td>
     <td>-</td>
-    <td>11.31</td>
+    <td>11.36</td>
   </tr>
   <tr>
     <td>Original</td>
@@ -367,7 +367,7 @@ Refer to the manuscript for further details.
     <td>1029</td>
     <td>1029</td>
     <td>-</td>
-    <td>11.31</td>
+    <td>11.52</td>
   </tr>
   <tr>
     <td>Original</td>
@@ -389,7 +389,7 @@ Refer to the manuscript for further details.
     <td>1000</td>
     <td>1000</td>
     <td>-</td>
-    <td>11.31</td>
+    <td>11.34</td>
   </tr>
   <tr>
     <td>Original</td>
@@ -411,7 +411,7 @@ Refer to the manuscript for further details.
     <td>1000</td>
     <td>1000</td>
     <td>-</td>
-    <td>11.31</td>
+    <td>11.36</td>
   </tr>
   <tr>
     <td>Original</td>
@@ -433,7 +433,7 @@ Refer to the manuscript for further details.
     <td>1000</td>
     <td>1000</td>
     <td>-</td>
-    <td>11.31</td>
+    <td>11.4</td>
   </tr>
   <tr>
     <td>Original</td>
@@ -455,7 +455,7 @@ Refer to the manuscript for further details.
     <td>1000</td>
     <td>1000</td>
     <td>-</td>
-    <td>11.31</td>
+    <td>11.36</td>
   </tr>
   <tr>
     <td>Original</td>
@@ -477,7 +477,7 @@ Refer to the manuscript for further details.
     <td>1000</td>
     <td>1000</td>
     <td>-</td>
-    <td>11.31</td>
+    <td>11.35</td>
   </tr>
   <tr>
     <td>Original</td>
@@ -499,7 +499,7 @@ Refer to the manuscript for further details.
     <td>1000</td>
     <td>1000</td>
     <td>-</td>
-    <td>11.31</td>
+    <td>11.39</td>
   </tr>
   <tr>
     <td>Original</td>
@@ -521,7 +521,7 @@ Refer to the manuscript for further details.
     <td>1038</td>
     <td>1039</td>
     <td>-</td>
-    <td>11.31</td>
+    <td>11.54</td>
   </tr>
 </table>
 
